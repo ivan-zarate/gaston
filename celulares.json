@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Samsung",
+    "version": "Galaxy Z Fold5",
+    "description": "Alta gama",
+    "precio":"980.000",
+    "imagen":"imagenes/samsung1.png"
+  },
+  {
+    "name": "Samsung",
+    "version": "Galaxy A04e 32GB ",
+    "description": "Media gama",
+    "precio":"80.999",
+    "imagen":"imagenes/samsung2.png"
+  },
+  {
+    "name": "Samsung",
+    "version": "Galaxy A34 5G",
+    "description": "Media gama",
+    "precio":"259.999",
+    "imagen":"imagenes/samsung3.png"
+  },
+  {
+    "name": "Motorola",
+    "version": "Razr 40 ultra 5G",
+    "description": "Alta gama",
+    "precio":"847.000",
+    "imagen":"imagenes/moto1.png"
+  },
+  {
+    "name": "Motorola",
+    "version": "Edge 40 Pro 5G",
+    "description": "Alta gama",
+    "precio":"400.000",
+    "imagen":"imagenes/moto2.png"
+  },
+  {
+    "name": "Motorola",
+    "version": "Moto E22",
+    "description": "Baja gama",
+    "precio":"91.899",
+    "imagen":"imagenes/moto3.png"
+  },
+  {
+    "name": "Xiaomi",
+    "version": "Redmi Note 11",
+    "description": "Media gama",
+    "precio":"150.399",
+    "imagen":"imagenes/xiaomi1.png"
+  },
+  {
+    "name": "TCL",
+    "version": "TCL 30 SE",
+    "description": "Baja gama",
+    "precio":"89.999",
+    "imagen":"imagenes/tcl1.png"
+  },
+  {
+    "name": "TCL",
+    "version": "TCL 408",
+    "description": "Baja gama",
+    "precio":"78.999",
+    "imagen":"imagenes/tcl2.png"
+  }
+]
